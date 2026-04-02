@@ -25,3 +25,4 @@ npm start
 
 - Copy `.env.example` to `.env` if needed
 - Set `NEXT_PUBLIC_API_BASE_URL` to your deployed backend URL
+- For this deployment, use `https://nidvoter.rsitlink.com`
